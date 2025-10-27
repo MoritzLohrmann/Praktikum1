@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\AnwendungSportvereine_Vorgabe\.metadata\.plugins\org.eclipse.jdt.core
+112873101.index
+1067094681.index
